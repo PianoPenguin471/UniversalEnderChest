@@ -1,6 +1,0 @@
-name: UniversalEnderchest
-version: 1.0
-main: pianopenguin471.universalenderchest.Main
-api-version: 1.16
-commands:
-  echest:
