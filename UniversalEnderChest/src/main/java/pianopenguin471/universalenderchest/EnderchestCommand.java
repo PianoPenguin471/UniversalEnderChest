@@ -15,7 +15,6 @@ public class EnderchestCommand implements CommandExecutor {
 			}
 			Player player = (Player) sender;
 			player.openInventory(player.getEnderChest())
-			Main.enderchests.get(player.getUniqueId()).openInventory(player);
 			return true;
 		}
 		return false;
